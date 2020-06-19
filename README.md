@@ -1,2 +1,2 @@
 # Hugo
-Hands on is a good practice for coding
+Hands on is a good practice 
